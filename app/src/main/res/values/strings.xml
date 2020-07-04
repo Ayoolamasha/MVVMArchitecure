@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVVMArchitecure</string>
+    <string name="title">Title</string>
+    <string name="dummy">Dummy</string>
+    <string name="description">Description</string>
+    <string name="title_editText">Title</string>
+    <string name="description_editText">Description</string>
+    <string name="priority_text">Priority:</string>
+    <string name="save_icon">Save</string>
+    <string name="deleteall">Delete All</string>
+</resources>
